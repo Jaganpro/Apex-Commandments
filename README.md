@@ -1,5 +1,6 @@
 # Apex-Commandments
-Curated list of Apex Best Practices from TrialheadDX 2017
+  * Curated list of Apex Best Practices from TrialheadDX 2017
+  * CREDITS : Apex 10 Commandments - https://www.youtube.com/watch?v=yqJZDmW1yLI
 
 ## Apex Best Practices
 
@@ -85,7 +86,3 @@ Curated list of Apex Best Practices from TrialheadDX 2017
   * Unit Test - Test Driven Development (TDD)
   
   ![image](https://user-images.githubusercontent.com/2145211/39099034-79e9c236-4641-11e8-9db0-4f9d96ec47e9.png)
-
-## Credits
-
-  * Apex 10 Commandments - https://www.youtube.com/watch?v=yqJZDmW1yLI
