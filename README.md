@@ -1,5 +1,5 @@
 # Apex-Commandments
-Curated list of Apex Best Practices from Tech Sessions and from my Personal experience
+Curated list of Apex Best Practices from TrialheadDX 2017
 
 ## Apex Best Practices
 
